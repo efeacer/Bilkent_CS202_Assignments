@@ -1,6 +1,6 @@
 # Bilkent_CS202_Assignments
 
-My solutions to the assignments of Bilkent University's Data Structures course.
+My solutions to the homeworks of Bilkent University's Data Structures course.
 
 ## Topics:
 
