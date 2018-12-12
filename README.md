@@ -10,4 +10,4 @@ My solutions to the assignments of Bilkent University's Data Structures course.
 
 `Homework3`: Heaps and AVL Trees
 
-`Homework4`: Hashing and Graphss
+`Homework4`: Hashing and Graphs
