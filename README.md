@@ -1,4 +1,4 @@
-# Bilkent_CS202_Assignments
+# Bilkent_CS202_Homeworks
 
 My solutions to the homeworks of Bilkent University's Data Structures course.
 
